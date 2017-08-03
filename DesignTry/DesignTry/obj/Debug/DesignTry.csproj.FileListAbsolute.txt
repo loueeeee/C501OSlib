@@ -1,0 +1,9 @@
+c:\users\lou\documents\visual studio 2012\Projects\DesignTry\DesignTry\bin\Debug\DesignTry.exe.config
+C:\Users\Lou\documents\visual studio 2012\Projects\DesignTry\DesignTry\bin\Debug\DesignTry.exe
+C:\Users\Lou\documents\visual studio 2012\Projects\DesignTry\DesignTry\bin\Debug\DesignTry.pdb
+C:\Users\Lou\documents\visual studio 2012\Projects\DesignTry\DesignTry\obj\Debug\DesignTry.csprojResolveAssemblyReference.cache
+C:\Users\Lou\documents\visual studio 2012\Projects\DesignTry\DesignTry\obj\Debug\DesignTry.Form1.resources
+C:\Users\Lou\documents\visual studio 2012\Projects\DesignTry\DesignTry\obj\Debug\DesignTry.Properties.Resources.resources
+C:\Users\Lou\documents\visual studio 2012\Projects\DesignTry\DesignTry\obj\Debug\DesignTry.csproj.GenerateResource.Cache
+C:\Users\Lou\documents\visual studio 2012\Projects\DesignTry\DesignTry\obj\Debug\DesignTry.exe
+C:\Users\Lou\documents\visual studio 2012\Projects\DesignTry\DesignTry\obj\Debug\DesignTry.pdb
